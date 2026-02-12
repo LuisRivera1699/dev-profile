@@ -1,0 +1,93 @@
+{
+  "settings": {
+    "heroTitle": "Senior Web3 Engineer & Technical Lead",
+    "heroSubtitle": "DeFi infrastructure · Smart contracts · Layer 2",
+    "heroSummary": "I build scalable blockchain systems and lead technical teams. Focused on DeFi protocol architecture, trading infrastructure, and secure smart contract design.",
+    "aboutText": "I'm a Senior Web3 Engineer and Technical Lead with deep experience building production DeFi infrastructure, trading systems, and smart contract architecture.\n\nMy work spans protocol design, Layer 2 scaling, and cross-chain integrations. I've led engineering teams through design, implementation, and mainnet launches.\n\nI focus on clean architecture, security-first development, and shipping systems that scale.",
+    "cvUrl": "",
+    "contactEmail": "hello@example.com",
+    "contactLinkedIn": "https://linkedin.com/in/example",
+    "contactGitHub": "https://github.com/example",
+    "contactWallet": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e"
+  },
+  "experiences": [
+    {
+      "role": "Senior Blockchain Engineer",
+      "company": "DeFi Protocol Labs",
+      "startDate": "2022",
+      "endDate": "Present",
+      "description": "Lead development of core smart contract suite and oracle integrations. Designed and implemented cross-chain bridge security model. Mentored 4 engineers.",
+      "techStack": ["Solidity", "Ethers.js", "Hardhat", "Subgraph", "Layer 2"]
+    },
+    {
+      "role": "Technical Lead",
+      "company": "Crypto Trading Infrastructure Co",
+      "startDate": "2020",
+      "endDate": "2022",
+      "description": "Built low-latency trading systems and risk engines. Owned architecture for order execution and settlement pipelines.",
+      "techStack": ["Go", "PostgreSQL", "Redis", "Kafka", "AWS"]
+    },
+    {
+      "role": "Smart Contract Developer",
+      "company": "Layer 2 Scaling Startup",
+      "startDate": "2019",
+      "endDate": "2020",
+      "description": "Developed and audited rollup contracts. Implemented state transition logic and fraud proof integration.",
+      "techStack": ["Solidity", "Vyper", "Rust", "zk-SNARKs"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "DeFi Lending Protocol",
+      "description": "Permissionless lending and borrowing with isolated pools and risk parameters.",
+      "impact": "Launched on mainnet; $2M+ TVL in first quarter.",
+      "techStack": ["Solidity", "Chainlink", "Hardhat"],
+      "githubUrl": "https://github.com/example/lending",
+      "liveUrl": "https://app.example.com",
+      "imageUrl": "",
+      "featured": true
+    },
+    {
+      "title": "Cross-Chain Bridge Relayer",
+      "description": "Relayer service for asset transfers between EVM chains with monitoring and alerting.",
+      "impact": "Processed 50k+ transactions with zero security incidents.",
+      "techStack": ["TypeScript", "Ethers.js", "Docker", "GCP"],
+      "githubUrl": "https://github.com/example/relayer",
+      "liveUrl": "",
+      "imageUrl": "",
+      "featured": true
+    }
+  ],
+  "skills": [
+    { "name": "Solidity", "category": "Blockchain" },
+    { "name": "Ethers.js", "category": "Blockchain" },
+    { "name": "Hardhat", "category": "Blockchain" },
+    { "name": "Layer 2", "category": "Blockchain" },
+    { "name": "Go", "category": "Backend" },
+    { "name": "Node.js", "category": "Backend" },
+    { "name": "PostgreSQL", "category": "Backend" },
+    { "name": "Redis", "category": "Backend" },
+    { "name": "React", "category": "Frontend" },
+    { "name": "TypeScript", "category": "Frontend" },
+    { "name": "Next.js", "category": "Frontend" },
+    { "name": "Docker", "category": "DevOps" },
+    { "name": "AWS", "category": "DevOps" },
+    { "name": "CI/CD", "category": "DevOps" },
+    { "name": "Technical Leadership", "category": "Leadership" },
+    { "name": "System Design", "category": "Leadership" }
+  ],
+  "certifications": [
+    {
+      "title": "Certified Smart Contract Developer",
+      "issuer": "Blockchain Council",
+      "date": "2023",
+      "description": "Security and best practices for Solidity development."
+    },
+    {
+      "title": "AWS Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2022",
+      "description": "Designing distributed systems on AWS."
+    }
+  ]
+}
